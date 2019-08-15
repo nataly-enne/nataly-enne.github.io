@@ -1,7 +1,7 @@
 window.onload = function() {
     Particles.init({
         selector: '.background',
-        color: '#75A5B7',
+        color: '#fa7a87',
         maxParticles: 130,
         connectParticles: true,
         responsive: [
