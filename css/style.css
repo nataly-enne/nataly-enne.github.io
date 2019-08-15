@@ -1,0 +1,112 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.background {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  background-image: url("../img/background.png");
+  width: 100%;
+  height: 100%;
+  border: none;
+  background-repeat: repeat;
+  background-position: 0 0;
+  background-size: auto 100%;
+  /* adjust s value for speed */
+  animation: animatedBackground 500s linear infinite;
+}
+
+@keyframes animatedBackground {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: -10000px 0;
+  }
+}
+
+.titles {
+  position: relative !important;
+  text-align: center;
+  color: whitesmoke;
+}
+
+.icon {
+  font-size: 70px !important;
+  color: white;
+  margin-right: 1%;
+}
+
+#icon-especial {
+  width: 61.25px;
+  height: 61.25px;
+  filter: brightness(0) invert(1);
+  margin-bottom: -3.5;
+}
+
+.row {
+  margin-left: 30%;
+  margin-right: 30%;
+  padding-top: 30%;
+}
+
+h1 {
+  font-size: 90px !important;
+  font-family: "Anton", sans-serif;
+}
+
+p {
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+}
+
+/* ---- responsive things ---- */
+
+/* tablets */
+@media (min-width: 700px) and (max-width: 1024px) {
+  .row {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 70%;
+  }
+
+  h1 {
+    font-size: 65px !important;
+  }
+
+  p {
+    font-size: 17px;
+  }
+}
+
+/* smartphones */
+@media screen and (min-width: 200px) and (max-width: 500px) {
+  .row {
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 80%;
+  }
+
+  .icon {
+    font-size: 50px !important;
+  }
+
+  #icon-especial {
+    width: 43.75px;
+    height: 43.75px;
+  }
+
+  h1 {
+    font-size: 40px !important;
+  }
+
+  p {
+    font-size: 10px;
+  }
+}
