@@ -72,8 +72,8 @@ p {
 @media (min-width: 700px) and (max-width: 1024px) {
   .row {
     padding-left: 15px;
-    padding-right: 15px;
-    padding-top: 70%; 
+    padding-right: 15px; 
+    margin-top: 20%;
   }
 
   h1 {
@@ -111,6 +111,8 @@ p {
   }
 }
 
+
+/* desktops */
 @media (min-width: 1280px) and (max-width: 1350px){
 
   .row{
