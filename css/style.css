@@ -73,7 +73,7 @@ p {
   .row {
     padding-left: 15px;
     padding-right: 15px;
-    padding-top: 70%;
+    padding-top: 70%; 
   }
 
   h1 {
@@ -109,4 +109,15 @@ p {
   p {
     font-size: 10px;
   }
+}
+
+@media (min-width: 1280px) and (max-width: 1350px){
+
+  .row{
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-top: 17%;
+    margin: 0%;
+  }
+
 }
