@@ -52,7 +52,7 @@ body {
 .row {
   margin-left: 30%;
   margin-right: 30%;
-  padding-top: 30%;
+  padding-top: 27%;
   margin-bottom: 0px;
 }
 
@@ -72,7 +72,7 @@ p {
 @media (min-width: 700px) and (max-width: 1024px) {
   .row {
     padding-left: 15px;
-    padding-right: 15px; 
+    padding-right: 15px;
     margin-top: 20%;
   }
 
@@ -113,12 +113,12 @@ p {
 
 
 /* desktops */
-@media (min-width: 1280px) and (max-width: 1350px){
+@media (min-width: 1280px) and (max-width: 1400px){
 
   .row{
     padding-right: 5%;
     padding-left: 5%;
-    padding-top: 17%;
+    padding-top: 15%;
     margin: 0%;
   }
 
