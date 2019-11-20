@@ -111,19 +111,16 @@ p {
   }
 }
 
-
 /* desktops */
-@media (min-width: 1280px) and (max-width: 1400px){
-
-  .row{
+@media (min-width: 1280px) and (max-width: 1400px) {
+  .row {
     padding-right: 5%;
     padding-left: 5%;
     padding-top: 15%;
     margin: 0%;
   }
-
 }
 
-.row{
+.row {
   margin-bottom: 0% !important;
 }
