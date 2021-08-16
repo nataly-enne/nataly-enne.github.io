@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/natalyenne
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nataly-enne.github.io
+  * I am natalyenne (https://keybase.io/natalyenne) on keybase.
+  * I have a public key ASDDfDEI9qs5uLUXeNAfey0oImabkE1rnCfctxBsaSFw_Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120da17546f9c420a48c5f5641cc87775ecc337b95a60e79e211bde69afb441939b0a",
+      "host": "keybase.io",
+      "kid": "0120c37c3108f6ab39b8b51778d01f7b2d2822669b904d6b9c27dcb7106c692170fd0a",
+      "uid": "f89b9c2bfa8867ef866a63fae4483019",
+      "username": "natalyenne"
+    },
+    "merkle_root": {
+      "ctime": 1629116925,
+      "hash": "e6e5dc7ed0f333bde4c6f2d13ae1952421154cd407cd968a2a0605ee8f89e7e9d7bfd16d51e2a89160df531d8a76c4749c6530b25f04410ffe400342e5e673a0",
+      "hash_meta": "414c8df936855e0711a00c02243b7c136c69d613d1c1af02973f00b1cd880336",
+      "seqno": 20574236
+    },
+    "service": {
+      "entropy": "2nXC8yzFD2EcE10+35aQ4pzq",
+      "hostname": "nataly-enne.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.7.1"
+  },
+  "ctime": 1629116952,
+  "expire_in": 504576000,
+  "prev": "4f63b70d80310dad2003eaef63d238e324a12b9d20623b435dd2108b6e9d4b68",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgw3wxCParObi1F3jQH3stKCJmm5BNa5wn3LcQbGkhcP0Kp3BheWxvYWTESpcCDMQgT2O3DYAxDa0gA+rvY9I44yShK50gYjtDXdIQi26dS2jEINg95f8j0IGt1zWmD1wtKMo+9JLudzjECU2i4njBqMAQAgHCo3NpZ8RAthHVHk5zbkx3/kD6ispCWfob171FCDuIzh6q+npOaUK7yS/Zmbbst18UaFbAIPjANMkgmcwf8NsAclTPJn6nAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILAuSE0iUFy2dELbpEIv9cwjpj7C9Dc8h0T9Mpz96EcDo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/natalyenne
+
+==================================================================
